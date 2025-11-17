@@ -104,7 +104,7 @@
   },
   "dependencies": {
     "@oclif/command": "^1.5.18",
-    "@oclif/core": "^1.9.3",
+    "@oclif/core": "^4.0.0",
     "@oclif/errors": "^1.2.2",
     "@rudderstack/rudder-sdk-node": "1.0.6",
     "axios": "^0.21.1",
